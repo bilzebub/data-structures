@@ -1,4 +1,4 @@
-package learn.binarytree;
+package learn.datastructures.binarytree;
 
 public class Node<T extends Comparable<T>> {
 

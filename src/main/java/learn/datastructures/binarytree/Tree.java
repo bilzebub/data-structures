@@ -1,4 +1,4 @@
-package learn.binarytree;
+package learn.datastructures.binarytree;
 
 import java.util.function.Consumer;
 

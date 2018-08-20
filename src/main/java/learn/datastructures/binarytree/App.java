@@ -1,4 +1,4 @@
-package learn.binarytree;
+package learn.datastructures.binarytree;
 
 public class App {
     public static void main(String[] args) {
